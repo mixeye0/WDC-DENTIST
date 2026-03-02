@@ -1,0 +1,9 @@
+{
+  "name": "Whites Dental Care",
+  "description": "Premium dental studio by Dr. Preeti Soni offering painless, honest, and modern dental care in a luxury aesthetic environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
